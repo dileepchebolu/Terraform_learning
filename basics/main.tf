@@ -1,4 +1,5 @@
 # Download the latest ghost image 
+## Added this content for testing git 
 resource "docker_image" "image_id" {
   name = var.image_name
 }
