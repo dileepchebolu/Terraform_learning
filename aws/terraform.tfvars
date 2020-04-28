@@ -1,6 +1,6 @@
 aws_region = "us-east-1"
-aws_access_key = "AKIA5R5MJSI7JVP7QBGL"
-aws_secret_key = "MRzvm13TYXmUBiyyiMTj19gZFlPAfC61yJ9sVvch"
+aws_access_key = ""
+aws_secret_key = ""
 ## Storage VARS ####
 project_name = "sample3"
 
